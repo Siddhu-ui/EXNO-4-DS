@@ -1,7 +1,10 @@
+# DEVELOPED By: SIDDHARTH S
+# Register number: 212224040317
+
 # EXNO:4-DS
 # AIM:
-To read the given data and perform Feature Scaling and Feature Selection process and save the
-data to a file.
+# To read the given data and perform Feature Scaling and Feature Selection process and save the
+# data to a file.
 
 # ALGORITHM:
 STEP 1:Read the given Data.
@@ -24,6 +27,21 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+
+![Ds exp 4 ipynb - Colab((DSG)_page-0001](https://github.com/user-attachments/assets/fdd11ed1-3fae-47e6-b458-30a18c8c43c8)
+
+
+![Ds exp 4 ipynb - Colab((DSG)_page-0002](https://github.com/user-attachments/assets/8a5f56d4-f6fa-4abc-8c27-bb68d8d46108)
+
+
+![Ds exp 4 ipynb - Colab((DSG)_page-0003](https://github.com/user-attachments/assets/35675aec-3a8e-45e3-9d4f-99e20ccbfd06)
+
+
+![Ds exp 4 ipynb - Colab((DSG)_page-0004](https://github.com/user-attachments/assets/3330c6bc-3c91-4e5d-bb56-86e1ccdf2a7c)
+
+
+![Ds exp 4 ipynb - Colab((DSG)_page-0005](https://github.com/user-attachments/assets/cca4f10c-d1cf-427c-bb78-a869ef196ce7)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+          Thus we have read and performed  Feature Scaling and Feature Selection process and save the data to a file.
